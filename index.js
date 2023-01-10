@@ -161,5 +161,3 @@ for (let i = 1; i < finances.length; i++) {
         decrease.amount = change;
     }
 }
-
-console.log(`Greatest Decrease in Profits: ${decrease.month} ($${decrease.amount})`);
